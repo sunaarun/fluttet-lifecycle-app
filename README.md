@@ -16,6 +16,8 @@ You can read about WidgetBindingObserver, link : https://api.flutter.dev/flutter
 
 For Lifecylce of FLutter Application, read this article : https://flutteragency.com/what-is-flutter-application-lifecycle/
 
+What appears in Terminal 
+
 ![lifecycleApp](https://user-images.githubusercontent.com/36349126/112383917-6e947a80-8cf6-11eb-9a67-ac986210615f.png)
 
 
